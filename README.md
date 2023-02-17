@@ -7,11 +7,6 @@
       
 </div>
 
-<div >
-      <a href="https://t.me/flutterblogs"><img height="110" width="310"
-      align="left" src="https://world-wire.com/wp-content/uploads/2021/08/join_us_on_tg.png?r=gv9" alt="Flutter Blogs"/></a>
-      
-</div>
 
 
   <a href="https://www.linkedin.com/in/mamasodikov/">
@@ -29,13 +24,18 @@
     />
   </a>
   
-
-
 - 👋 Hi, I’m @Mamasodikov Mukhammad Aziz 
 - 🌱 I’m Mobile Developer (Flutter)
 - 👀 I’m interested in AI / ML
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me - generalmarshallinbox@gmail.com
+- 📫 How to reach me - generalmarshallinbox@gmail.com 
+
+
+<div >
+      <a href="https://t.me/flutterblogs"><img height="110" width="310"
+      src="https://world-wire.com/wp-content/uploads/2021/08/join_us_on_tg.png?r=gv9" alt="Flutter Blogs"/></a>
+      
+</div>
 
 I can make this in Flutter 👇
 
