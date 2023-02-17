@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me - generalmarshallinbox@gmail.com
 
-<a href="https://app.daily.dev/flutteruz"><img src="https://api.daily.dev/devcards/b47bf2a7cb3c4ce4aa51ba9176437dec.png?r=z0v" width="400" alt="Mamasodikov's Dev Card"/></a>
+<a href="https://app.daily.dev/flutteruz"><img src="https://api.daily.dev/devcards/b47bf2a7cb3c4ce4aa51ba9176437dec.png?r=gv9" width="400" alt="Mamasodikov's Dev Card"/></a>
