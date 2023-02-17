@@ -8,7 +8,6 @@
 </div>
 
 
-
   <a href="https://www.linkedin.com/in/mamasodikov/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
@@ -32,14 +31,16 @@
 
 
 <div >
-      <a href="https://t.me/flutterblogs"><img height="110" width="310"
+      <a href="https://t.me/flutterblogs"><img height="100" width="260"
       src="https://world-wire.com/wp-content/uploads/2021/08/join_us_on_tg.png?r=gv9" alt="Flutter Blogs"/></a>
       
 </div>
 
 I can make this in Flutter 👇
 
-![Caption](https://miro.medium.com/max/418/1*Bzm19U6xixjRLi3nRNjSYQ.gif)
+<div id="header" align="left">
+  <img src="https://miro.medium.com/max/418/1*Bzm19U6xixjRLi3nRNjSYQ.gif" width="300"/>
+</div>
 https://github.com/cict-cc206/finals-output
 
 
