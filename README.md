@@ -1,9 +1,18 @@
 
-<div align="left">
+
+
+<div>
       <a href="https://app.daily.dev/flutteruz"><img width="400"
       align="right" src="https://api.daily.dev/devcards/b47bf2a7cb3c4ce4aa51ba9176437dec.png?r=gv9" alt="Mamasodikov's Dev Card"/></a>
       
 </div>
+
+<div >
+      <a href="https://t.me/flutterblogs"><img height="110" width="310"
+      align="right" src="https://world-wire.com/wp-content/uploads/2021/08/join_us_on_tg.png?r=gv9" alt="Flutter Blogs"/></a>
+      
+</div>
+
 
   <a href="https://www.linkedin.com/in/mamasodikov/">
     <img
@@ -19,6 +28,9 @@
       alt="Twitter"
     />
   </a>
+  
+
+
 
 - 👋 Hi, I’m @Mamasodikov Mukhammad Aziz 
 - 🌱 I’m Mobile Developer (Flutter)
