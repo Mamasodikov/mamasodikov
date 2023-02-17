@@ -1,6 +1,6 @@
 
 <div align="left">
-      <a href="https://app.daily.dev/flutteruz"><img width="500"
+      <a href="https://app.daily.dev/flutteruz"><img width="400"
       align="right" src="https://api.daily.dev/devcards/b47bf2a7cb3c4ce4aa51ba9176437dec.png?r=gv9" alt="Mamasodikov's Dev Card"/></a>
       
 </div>
