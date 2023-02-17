@@ -9,7 +9,7 @@
 
 <div >
       <a href="https://t.me/flutterblogs"><img height="110" width="310"
-      align="right" src="https://world-wire.com/wp-content/uploads/2021/08/join_us_on_tg.png?r=gv9" alt="Flutter Blogs"/></a>
+      align="left" src="https://world-wire.com/wp-content/uploads/2021/08/join_us_on_tg.png?r=gv9" alt="Flutter Blogs"/></a>
       
 </div>
 
@@ -31,7 +31,6 @@
   
 
 
-
 - 👋 Hi, I’m @Mamasodikov Mukhammad Aziz 
 - 🌱 I’m Mobile Developer (Flutter)
 - 👀 I’m interested in AI / ML
@@ -41,3 +40,6 @@
 I can make this in Flutter 👇
 
 ![Caption](https://miro.medium.com/max/418/1*Bzm19U6xixjRLi3nRNjSYQ.gif)
+
+
+
