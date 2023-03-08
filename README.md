@@ -3,10 +3,9 @@
 
 <div>
       <a href="https://app.daily.dev/flutteruz"><img width="400"
-      align="right" src="https://api.daily.dev/devcards/b47bf2a7cb3c4ce4aa51ba9176437dec.png?r=gv9" alt="Mamasodikov's Dev Card"/></a>
+      align="right" src="https://miro.medium.com/max/418/1*Bzm19U6xixjRLi3nRNjSYQ.gif" alt="Mamasodikov's Dev Card"/></a>
       
 </div>
-
 
   <a href="https://www.linkedin.com/in/mamasodikov/">
     <img
@@ -23,6 +22,7 @@
     />
   </a>
   
+<br> </br>
 - 👋 Hi, I’m @Mamasodikov Mukhammad Aziz 
 - 🌱 I’m Mobile Developer (Flutter)
 - 👀 I’m interested in AI / ML
@@ -38,9 +38,6 @@
 
 I can make this in Flutter 👇
 
-<div id="header" align="left">
-  <img src="https://miro.medium.com/max/418/1*Bzm19U6xixjRLi3nRNjSYQ.gif" width="300"/>
-</div>
 https://github.com/cict-cc206/finals-output
 
 
