@@ -1,44 +1,25 @@
+## Social Media:
 
+[![](https://img.shields.io/badge/stack%20overflow-7cebf5?&style=for-the-badge&logo=stack%20overflow&logoColor=black)](https://stackoverflow.com/users/11618025/scorpion) [](https://stackoverflow.com/users/story/16787643) [![](https://img.shields.io/badge/WebPage-7cebf5?&style=for-the-badge&logo=data:image/png;base64,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&logoColor=black)](https://www.t.me/flutterblogs) [](https://www.davidsdvm.com/) [![](https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mamasodikov) [](https://www.linkedin.com/in/DavidsDvm) [![](https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black)](mailto:generalmarshallinbox@gmail.com) [](mailto:davids.dvm@gmail.com) 
 
+---
 
-<div>
-      <a href="https://app.daily.dev/flutteruz"><img width="400"
-      align="right" src="https://miro.medium.com/max/418/1*Bzm19U6xixjRLi3nRNjSYQ.gif" alt="Mamasodikov's Dev Card"/></a>
-      
-</div>
+## 🤔 About me 👨‍💻
 
-  <a href="https://www.linkedin.com/in/mamasodikov/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-  
-  
-<a href="https://twitter.com/imrealcosmos">
-    <img
-      src="https://img.shields.io/twitter/follow/imrealcosmos?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  
-<br> </br>
-- 👋 Hi, I’m @Mamasodikov Mukhammad Aziz 
-- 🌱 I’m Mobile Developer (Flutter)
-- 👀 I’m interested in AI / ML
-- 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me - generalmarshallinbox@gmail.com 
+> _Heeey!_  
+>   
+> 🚀 Hello there, I'm not just a developer; I'm a digital magician crafting apps that come to life with a touch. ✨
+> 
+> 📱 Fluttering through the world of mobile and cross-platform development, I bring ideas to fruition and transform concepts into user-friendly experiences. My code doesn't just run; it dances, and my apps don't just function; they captivate.
+> 
+> 🧠 I'm on a never-ending quest for knowledge, and my canvas is a screen. With each line of code, I'm painting a future where technology knows no bounds. From the latest frameworks to groundbreaking design patterns, I'm on a relentless journey to stay on the cutting edge.
+> 
+> 🔧 When I'm not immersed in code, you can find me in a world of tinkering and invention. I love to experiment, hack, and build things that weren't supposed to be built. It's not just about the destination; it's about the exhilarating journey.
+> 
+> 💬 Let's chat about anything, from the intricacies of asynchronous programming to the mysteries of the universe. I'm not just a guy with a good vibe; I'm a knowledge-hungry explorer who's always up for a stimulating conversation.
+> 
+> 🌏 If you're seeking a tech-savvy companion who's passionate about creating, learning, and pushing the boundaries of what's possible, I'm here to make your digital dreams a reality. Let's connect and embark on this electrifying journey together!
 
+🧐 More About Me:
 
-<div >
-      <a href="https://t.me/flutterblogs"><img height="100" width="260"
-      src="https://world-wire.com/wp-content/uploads/2021/08/join_us_on_tg.png?r=gv9" alt="Flutter Blogs"/></a>
-      
-</div>
-
-I can make this in Flutter 👇
-
-https://github.com/cict-cc206/finals-output
-
-
-
+<table style=";"><tbody><tr><td style=";"><ul><li><code>🙋 I am <strong>Mukhammad Aziz</strong> better known as '<strong>Kocmoc</strong>'🕵🏼‍♂️&nbsp;</code></li><li><code><strong>🇺🇿 </strong>I am from <strong>Uzbekistan&nbsp;</strong></code></li><li><code>🌱 I’m mostly a <strong>Mobile Developer</strong> (Cross-platform with Flutter)</code></li><li><code>👀 I’m <strong>interested</strong> in AI / ML (Python) &nbsp;GoLang/Rust.</code></li><li><code>💞️ I’m looking to <strong>collaborate</strong> on <strong>Open Source</strong> Projects</code></li><li><code>📫 How to reach me - <strong>generalmarshallinbox@gmail.com</strong></code></li><li><code>😇 If you wanna <strong>chat with me</strong>, write me on <strong>Telegram</strong>: t.me/mamasodikoff or <strong>Twitter</strong>: https://twitter.com/imrealcosmos</code></li></ul></td><td style=";"><figure class="image image_resized" style="width:94.92%;"><img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f842c905afffd955c154157b7163377bf5854e112274702e.png" srcset="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f842c905afffd955c154157b7163377bf5854e112274702e.png/w_730 730w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f842c905afffd955c154157b7163377bf5854e112274702e.png/w_1460 1460w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f842c905afffd955c154157b7163377bf5854e112274702e.png/w_2190 2190w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f842c905afffd955c154157b7163377bf5854e112274702e.png/w_2920 2920w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f842c905afffd955c154157b7163377bf5854e112274702e.png/w_3650 3650w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f842c905afffd955c154157b7163377bf5854e112274702e.png/w_4380 4380w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f842c905afffd955c154157b7163377bf5854e112274702e.png/w_5110 5110w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f842c905afffd955c154157b7163377bf5854e112274702e.png/w_5840 5840w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f842c905afffd955c154157b7163377bf5854e112274702e.png/w_6570 6570w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f842c905afffd955c154157b7163377bf5854e112274702e.png/w_7227 7227w" sizes="100vw" width="7227"></figure></td></tr></tbody></table>
